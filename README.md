@@ -1,8 +1,8 @@
 # 学习图像增强 OpenCV 
 
-Welcome to visit [My Blog](http://codec.wang).
 
-> 0.7.0 预览版下载：[Download](https://github.com/CodecWang/learn-opencv-edu/releases/tag/0.7.0)
+
+> 0.7.0 预览版下载：[Download](https://github.com/jjyxx/-)
 
 - 初衷是用于图像处理类课程中演示 OpenCV 功能，比如边缘检测，可以很直观的看出不同的参数对结果的作用和影响，相当于 OpenCV 的 GUI 版本
 - 编写环境：python+OpenCV
